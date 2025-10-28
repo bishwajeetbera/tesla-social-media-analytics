@@ -40,10 +40,6 @@ Tools & Techniques
 - Microsoft Excel (Advanced) - Pivot Tables, Charts, VLOOKUP, Dashboards  
 - Data Analytics Techniques: Cleaning, Trend Analysis, KPI Measurement 
 
-Dashboard Preview
-[Tesla Social Media Dashboard] (tesla-social-media-analytics/doc/dashboard_overview.PNG)
-
-
 Contact
 Bishwajeet Bera  
 [LinkedIn](www.linkedin.com/in/bishwajeet-bera-healthcare) | [GitHub](https://github.com/bishwajeetbera)  
