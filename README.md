@@ -24,10 +24,10 @@ Key Excel Skills Applied
 
 Repository Structure
 tesla-social-media-analytics/
-	data/ - sample or anonymized social media dataset (.csv)
-	workbook/ - main Excel workbook with all analysis sheets
-	docs/ - screenshots & project report
-	README.md - project documentation
+data/ - sample or anonymized social media dataset (.csv)
+workbook/ - main Excel workbook with all analysis sheets
+docs/ - screenshots & project report
+README.md - project documentation
 
 Insights Summary
 - YouTube delivered the highest ROI despite higher ad spend.  
