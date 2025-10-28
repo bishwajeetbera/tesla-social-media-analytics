@@ -41,7 +41,7 @@ Tools & Techniques
 - Data Analytics Techniques: Cleaning, Trend Analysis, KPI Measurement 
 
 Dashboard Preview
-[Tesla Social Media Dashboard] (docs/dashboard_overview.png)
+[Tesla Social Media Dashboard] (tesla-social-media-analytics/doc/dashboard_overview.PNG)
 
 
 Contact
